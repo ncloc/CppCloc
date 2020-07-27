@@ -1,0 +1,2 @@
+# CppCloc
+C++ for cloc
